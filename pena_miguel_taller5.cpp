@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// El siguiente programa evalua una serie de secuencias de números verificando que siempre el número evaluado al revés sea mayor al número ingresado anteriormente.
+
 int main() {
     int casos, validas = 0, invalidas = 0;
 
