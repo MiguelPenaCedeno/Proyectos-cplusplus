@@ -1,4 +1,7 @@
 #include <iostream>
+
+//El siguiente programa calcula el saldo a pagar al cliente dando la cantidad minima de billetes que se deben dar y su valor.
+
 using namespace std;
 
 int main() {
