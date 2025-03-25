@@ -2,6 +2,8 @@
 #include <cmath>
 using namespace std;
 
+// El siguiente programa encuentra hipotética estación de comida más cercana a tu posición actual. 
+
 float calculo(float x_actual, float y_actual, float z_actual, float x2, float y2, float z2, float &d) {
     d = sqrt(pow(x2 - x_actual, 2) + pow(y2 - y_actual, 2) + pow(z2 - z_actual, 2));
     return d;
