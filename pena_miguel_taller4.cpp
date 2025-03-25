@@ -1,5 +1,7 @@
 #include <iostream>
 using namespace std;
+
+// El siguiente programa calcula la serie fibonacci dada hasta el dato ingresado por el usuario y los numeros primos de la secuencia del mismo.
 int main() { 
     int n, primos = 0;
     
