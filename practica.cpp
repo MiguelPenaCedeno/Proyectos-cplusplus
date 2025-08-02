@@ -5,5 +5,5 @@ int main() {
     cout << "Ingrese x cosa: ";
     cin >> a;
     cout << a;
-    return 0
+    return 0;
 }
